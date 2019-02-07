@@ -1,0 +1,10 @@
+{
+  "runtime~main.js": "/clickygame/static/js/runtime~main.34b2a93e.js",
+  "runtime~main.js.map": "/clickygame/static/js/runtime~main.34b2a93e.js.map",
+  "vendors.js": "/clickygame/static/js/vendors.ec677637.chunk.js",
+  "vendors.js.map": "/clickygame/static/js/vendors.ec677637.chunk.js.map",
+  "main.css": "/clickygame/static/css/main.9540f131.chunk.css",
+  "main.js": "/clickygame/static/js/main.cb7d4a50.chunk.js",
+  "main.js.map": "/clickygame/static/js/main.cb7d4a50.chunk.js.map",
+  "index.html": "/clickygame/index.html"
+}
